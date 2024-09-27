@@ -103,7 +103,7 @@ const LeaderBoard = () => {
         lineHeight="32px"
         m={{ base: "0px", md: "24px auto 32px" }}
       >
-        LeaderBoard
+        Leaderboard
       </Text>
 
       <Box
