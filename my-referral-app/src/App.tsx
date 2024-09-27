@@ -1,14 +1,12 @@
-import Milestone from './component/Milestone'
-import LeaderBoard from './component/LeaderBoard'
+import Milestone from "./component/Milestone";
+import LeaderBoard from "./component/LeaderBoard";
 function App() {
-
   return (
     <>
-      <Milestone/>
-     <LeaderBoard/>
-    
+      <Milestone />
+      <LeaderBoard />      
     </>
-  )
+  );
 }
 
 export default App;
